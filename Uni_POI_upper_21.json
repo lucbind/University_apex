@@ -1,0 +1,252 @@
+[
+   {
+      "NAME":"piscina_tor_di_quinto",
+      "UNIVERSITY_ID":1,
+      "TYPE":"Centro_sportivo",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Roma",
+      "ADDRESS":"Via Fornaci di Tor di Quinto, 64",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            12.4842835,
+            41.9365692
+         ]
+      },
+      "OPEN":"start from January 9th.",
+      "SIZE":"16m x 33m",
+      "PHOTO":{
+         "TYPE1":"url",
+         "PICTURES1":"https://web.uniroma1.it/sapienzasport/sites/default/files/IMG_20200622_164135.jpg"
+      }
+   },
+   {
+      "NAME":"mensa_lollis",
+      "UNIVERSITY_ID":1,
+      "TYPE":"Mensa",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Roma",
+      "ADDRESS":"Via De Lollis 22",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            12.5146991,
+            41.9010633
+         ]
+      },
+      "VEGETARIAN":"yes",
+      "CELIACS":"yes"
+   },
+   {
+      "NAME":"Facoltà di Lettere",
+      "UNIVERSITY_ID":1,
+      "TYPE":"Edificio",
+      "CITY":"Roma",
+      "ADDRESS":"piazzale della minerva",
+      "NEW VENDING MACHINES":"yes",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            12.5153245,
+            41.9022471
+         ]
+      }
+   },
+   {
+      "NAME":"mensa_ingegneria",
+      "UNIVERSITY_ID":1,
+      "TYPE":"Mensa",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Roma",
+      "ADDRESS":"via delle Sette Sale n. 29",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            12.4965352,
+            41.8938700
+         ]
+      },
+      "VEGETARIAN":"yes",
+      "CELIACS":"yes on reservation"
+   },
+   {
+      "NAME":"Aula Magna",
+      "UNIVERSITY_ID":1,
+      "TYPE":"Edificio",
+      "CITY":"Roma",
+      "ADDRESS":"Piazzale Aldo Moro, 5",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            12.5157103,
+            41.9034591
+         ]
+      },
+      "PHOTO":{
+         "TYPE1":"url",
+         "PICTURES1":"https://www.uniroma1.it/sites/default/files/07.jpg"
+      }
+   },
+   {
+      "NAME":"Aula Magna",
+      "UNIVERSITY_ID":2,
+      "TYPE":"Edificio",
+      "CITY":"Roma",
+      "ADDRESS":"via del fontanile",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            12.6052560,
+            41.8519241
+         ]
+      }
+   },
+   {
+      "NAME":"Aula Magna",
+      "UNIVERSITY_ID":3,
+      "TYPE":"Edificio",
+      "CITY":"Bologna",
+      "ADDRESS":"Via Imerio ",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            11.3550722,
+            44.4997920
+         ]
+      }
+   },
+   {
+      "NAME":"Aula Magna",
+      "UNIVERSITY_ID":4,
+      "TYPE":"Edificio",
+      "CITY":"Milano",
+      "ADDRESS":"Via Guglielmo Röntgen, 1",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            9.1872513,
+            45.4502540
+         ]
+      }
+   },
+   {
+      "NAME":"Aula Magna",
+      "UNIVERSITY_ID":5,
+      "TYPE":"Edificio",
+      "CITY":"Napoli",
+      "ADDRESS":"Via Monteoliveto, 3",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            14.2511105,
+            40.8463878
+         ]
+      }
+   },
+   {
+      "NAME":"Rettorato",
+      "UNIVERSITY_ID":6,
+      "TYPE":"Edificio",
+      "CITY":"Torino",
+      "ADDRESS":"Via Po ",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            7.6879819,
+            45.0704756
+         ]
+      }
+   },
+   {
+      "NAME":"PAlestra",
+      "UNIVERSITY_ID":3,
+      "TYPE":"Centro_sportivo",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Bologna",
+      "ADDRESS":"via A gardino",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            11.3369912,
+            44.5017833
+         ]
+      },
+      "PHOTO":{
+         "TYPE1":"url",
+         "PICTURES1":"https://cusb.unibo.it/it/servizi-e-impianti/palestra-unione/@@eod.tiles.richtext/7135e038b60e4d79bb0122d1e342053d/@@images/d2fb8e52-9d48-420a-a2e2-46b7613b47bd.jpeg"
+      },
+
+      "SIZE":"OpneSpace",
+      "OPEN":"always"
+   },
+   {
+      "NAME":"mensa_lettere",
+      "UNIVERSITY_ID":4,
+      "TYPE":"Centro sportivo",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Milano",
+      "ADDRESS":"Piazza Angelo Sraffa",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            9.1886575,
+            45.4502445
+         ]
+      }
+   },
+   {
+      "NAME":"mensa_olimpia",
+      "UNIVERSITY_ID":6,
+      "TYPE":"Mensa",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Torino",
+      "ADDRESS":"Via De Lollis 22",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            7.7011350,
+            45.0771085
+         ]
+      },
+      "VEGETARIAN":"yes",
+      "CELIACS":"yes"
+   },
+   {
+      "NAME":"mensa_principe",
+      "UNIVERSITY_ID":6,
+      "TYPE":"Mensa",
+      "COSTO":{
+         "MIN":"2.20",
+         "MAX":"7.20"
+      },
+      "CITY":"Torino",
+      "ADDRESS":"Via Principe Amedeo",
+      "GEOMETRY":{
+         "type":"Point",
+         "coordinates":[
+            7.6918653,
+            45.0681376
+         ]
+      },
+      "VEGETARIAN":"yes",
+      "CELIACS":"yes"
+   }
+]
